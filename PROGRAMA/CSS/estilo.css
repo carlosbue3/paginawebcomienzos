@@ -2,12 +2,14 @@
 
 html {
     
-    font-size: 10px;
+    font-size: 80px;
     font-family: 'open Sans', sans-serif;
+    text-align: center;
+
 }
 
 
-{
+h4{
 
     font-size:60px;
     text-align: center;
@@ -15,7 +17,7 @@ html {
 }
 
 p, li{
-    font-size: 16px;
+    font-size: 30px;
     line-height: 2;
     letter-spacing: 1px;
 
@@ -31,12 +33,12 @@ html {
 
 
 body {
-    width: 600px;
+    width: 2500px;
     margin: 0 auto;
     background-color: cornflowerblue;
     padding: 0 20px 20px 20px;
     border: 5px solid purple;
-
+    text-align: left;
 
 }
 
@@ -46,6 +48,9 @@ h1{
     padding: 20px 0;
     color: #00539f;
     text-shadow: 3px 3px 1px black;
+    text-align: center;
+    font-size: 90px;
+
 
 }
 
